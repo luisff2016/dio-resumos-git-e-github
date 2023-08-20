@@ -10,6 +10,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | aulas | resumos |
 |-----|---------|
 | 1 | git |
+| 2 | github |
 
 ## 👍legal
 

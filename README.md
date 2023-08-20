@@ -3,7 +3,7 @@
 
 Uma breve descrição sobre o que esse projeto faz e para quem ele é
 ## testando
-[https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams]
+[Digital Innovation One](https://www.dio.me).
 
 ## 📚documentacao
 
@@ -13,12 +13,4 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | 2 | github |
 
 ## 👍legal
-
-```
-git init
-```
-
-
-
-
-
+- [DIO]()
